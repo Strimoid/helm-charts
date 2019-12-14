@@ -19,7 +19,7 @@ entries:
     - https://github.com/davidtannock/docker-beanstalkd
     - https://github.com/davidtannock/beanstalkd_exporter
     urls:
-    - //davidtannock.github.io/helm-charts/beanstalkd-1.1.1.tgz
+    - beanstalkd-1.1.1.tgz
     version: 1.1.1
   - appVersion: "1.10"
     created: 2019-09-28T08:13:31.492828878+10:00
@@ -39,7 +39,7 @@ entries:
     - https://github.com/davidtannock/docker-beanstalkd
     - https://github.com/davidtannock/beanstalkd_exporter
     urls:
-    - //davidtannock.github.io/helm-charts/beanstalkd-1.1.0.tgz
+    - beanstalkd-1.1.0.tgz
     version: 1.1.0
   - appVersion: "1.10"
     created: 2019-09-28T08:13:31.492502384+10:00
@@ -56,6 +56,6 @@ entries:
     sources:
     - https://github.com/davidtannock/docker-beanstalkd
     urls:
-    - //davidtannock.github.io/helm-charts/beanstalkd-1.0.0.tgz
+    - beanstalkd-1.0.0.tgz
     version: 1.0.0
 generated: 2019-09-28T08:13:31.492117777+10:00
